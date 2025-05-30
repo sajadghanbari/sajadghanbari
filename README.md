@@ -14,6 +14,6 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4E12AQFZk_BOEXMuxw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1711355118921?e=2147483647&v=beta&t=0dn89z7vhHg_yojXucqZc86hRlZl6fXb2gUTPaCZSNY" alt="mysql" width="40" height="40"/> </a></p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> </a></p>
 
 
