@@ -14,6 +14,6 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/new-php-logo.png" alt="linux" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/storage.googleapis.com/stateless-blog-toright-com/2011/03/verslag-techtalk-mysql.png" alt="linux" width="40" height="40"/> </a></p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fimportance-mysql-database-advantages-disadvantages-influence-bk-xhfce&psig=AOvVaw00z4IpBEG43hH1RcStlBnD&ust=1748710565300000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLj79NLUy40DFQAAAAAdAAAAABAX" alt="linux" width="40" height="40"/> </a></p>
 
 
