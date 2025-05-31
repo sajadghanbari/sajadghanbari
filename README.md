@@ -15,6 +15,6 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/0*zj_kGMq6f2ZxW7p3.png" alt="react" width="40" height="40"/> </a></p>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/330px-React_Logo_SVG.svg.png" alt="react" width="40" height="40"/> </a></p>
 
 
