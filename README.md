@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sajad Ghanbari</h1>
-<h3 align="center">Junior Network Engineer</h3>
+<h3 align="center">Junior Backend Developer</h3>
 
-- 🌱 I’m currently learning **LPIC2 and php**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajadghanbari](https://github.com/sajadghanbari)
 
-- 💬 Ask me about **Network and Linux**
+- 💬 Ask me about **Network and PHP**
 
 - 📫 How to reach me **a.s.ghanbari.j@gmail.com**
 
@@ -14,6 +14,7 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> </a></p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/0*zj_kGMq6f2ZxW7p3.png" alt="react" width="40" height="40"/> </a></p>
 
 
