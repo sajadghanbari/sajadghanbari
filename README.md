@@ -24,12 +24,6 @@
 </p>
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajadghanbari&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajadghanbari&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
 
 ---
 
