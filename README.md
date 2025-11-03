@@ -20,9 +20,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F62FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Network+Enthusiast;PHP+%26+Laravel+Lover;Go+%26+PostgreSQL+Learner;Always+Learning+New+Techs!" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,postgresql,mysql,python,js,react,html,css,git,bash,linux,docker,c#" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
