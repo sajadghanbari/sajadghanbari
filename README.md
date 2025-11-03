@@ -1,20 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sajad Ghanbari</h1>
-<h3 align="center">Junior Backend Developer</h3>
+<h1 align="center">👋 Hey there! I'm <a href="https://github.com/sajadghanbari">Sajad Ghanbari</a></h1>
+<h3 align="center">🚀 Junior Backend Developer | PHP & Laravel Enthusiast</h3>
 
-- 🌱 I’m currently learning **Docker**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A18FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Open-Source+Contributor;Network+Specialist;Always+Learning+New+Techs!" alt="Typing SVG" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sajadghanbari](https://github.com/sajadghanbari)
+---
 
-- 💬 Ask me about **Network and PHP**
+### 🧠 About Me  
+- 🌱 Currently learning **Docker & System Design**  
+- 💬 Ask me about **PHP, Laravel, Networking, or Linux**  
+- 👨‍💻 Check out all my projects here → [**My GitHub**](https://github.com/sajadghanbari)  
+- 📫 Reach me at: **a.s.ghanbari.j@gmail.com**  
+- ⚡ Fun fact: I love solving complex backend puzzles 🧩  
 
-- 📫 How to reach me **a.s.ghanbari.j@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/330px-React_Logo_SVG.svg.png" alt="react" width="40" height="40"/> </a></p>
+### 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,js,react,html,css,git,bash,linux,docker,c" />
+</p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajadghanbari&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajadghanbari&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:a.s.ghanbari.j@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
+  <a href="https://github.com/sajadghanbari"><img src="https://skillicons.dev/icons?i=github" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/sajad-ghanbari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajadghanbari&label=Profile%20views&color=7A18FF&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+</p>
