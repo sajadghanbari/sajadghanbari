@@ -3,7 +3,7 @@
 <h3 align="center">💻 Network Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A18FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Open-Source+Contributor;Network+Specialist;Always+Learning+New+Techs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A18FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Open-Source+Contributor;Network+Enthusiast;Always+Learning+New+Techs!" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,js,react,html,css,git,bash,linux,docker,postgress,kubernetes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F62FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Network+Enthusiast;PHP+%26+Laravel+Lover;Go+%26+PostgreSQL+Learner;Always+Learning+New+Techs!" alt="Typing SVG" />
 </p>
 
 ---
