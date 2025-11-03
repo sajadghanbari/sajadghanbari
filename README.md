@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hey there! I'm <a href="https://github.com/sajadghanbari">Sajad Ghanbari</a></h1>
-<h3 align="center">🚀 Junior Backend Developer | PHP & Laravel Enthusiast</h3>
+<h3 align="center">🚀 Backend Developer | PHP & Laravel Enthusiast</h3>
+<h3 align="center">💻 Network Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A18FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Open-Source+Contributor;Network+Specialist;Always+Learning+New+Techs!" alt="Typing SVG" />
@@ -19,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,js,react,html,css,git,bash,linux,docker,c" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,js,react,html,css,git,bash,linux,docker,postgress,kubernetes" />
 </p>
 
 ---
@@ -38,7 +39,6 @@
 <p align="center">
   <a href="mailto:a.s.ghanbari.j@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
   <a href="https://github.com/sajadghanbari"><img src="https://skillicons.dev/icons?i=github" alt="github"/></a>
-  <a href="https://www.linkedin.com/in/sajad-ghanbari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
 </p>
 
 ---
