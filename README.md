@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me  
-- 🌱 Currently learning **Docker & System Design**  
+- 🌱 Currently learning **System Design**  
 - 💬 Ask me about **PHP, Laravel, Networking, or Linux**  
 - 👨‍💻 Check out all my projects here → [**My GitHub**](https://github.com/sajadghanbari)  
 - 📫 Reach me at: **a.s.ghanbari.j@gmail.com**  
