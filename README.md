@@ -27,21 +27,7 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:a.s.ghanbari.j@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
-  <a href="https://github.com/sajadghanbari"><img src="https://skillicons.dev/icons?i=github" alt="github"/></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajadghanbari&label=Profile%20views&color=7A18FF&style=flat" alt="Profile views"/>
 </p>
 
----
-
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
-</p>
