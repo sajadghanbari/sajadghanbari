@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,go,postgresql,mysql,mongo,python,js,react,html,css,git,bash,linux,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,postgresql,mysql,mongo,python,js,react,html,css,git,linux,docker,kubernetes" />
 </p>
 
 
